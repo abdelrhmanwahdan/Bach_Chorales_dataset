@@ -1,2 +1,2 @@
 # Bach_Chorales_dataset
-generate new chorales using CNN and LSTM
+generate new musical chorales using CNN and LSTM
